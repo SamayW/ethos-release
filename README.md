@@ -1,101 +1,175 @@
 <p align="center">
-  <img alt="Ethos | AI Personal Trainer, by Samay Wadhwani" src="screenshots/banner.svg" width="100%">
+  <img alt="Ethos, your AI personal trainer, for iPhone" src="screenshots/banner.svg" width="100%">
 </p>
 
-<h3 align="center">Your trainer. In your pocket. Every day.</h3>
+<h3 align="center">Train, eat and recover with a coach who knows you.</h3>
 
 <p align="center">
-  Food, training and progress in one iPhone app,<br>
-  with Max, an AI coach who gets to know you and changes your plan every week based on how you're actually doing.
-</p>
-
-<p align="center">
-  <a href="https://github.com/SamayW/ethos-release/releases/latest/download/Ethos.ipa"><img alt="Download Ethos for iPhone" src="https://img.shields.io/badge/Download%20for%20iPhone-iOS%2026-ff8a4c?style=for-the-badge&labelColor=111111&logo=apple&logoColor=white"></a>
+  Workouts, food and recovery in one iPhone app,<br>
+  with Max, an AI coach who plans your week and changes it as you go.
 </p>
 
 <p align="center">
-  <a href="https://github.com/SamayW/ethos-release/releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/SamayW/ethos-release?include_prereleases&label=latest&color=ff8a4c&labelColor=111111"></a>
+  <a href="https://github.com/SamayW/ethos-release/releases/latest/download/Ethos.ipa"><img alt="Download Ethos for iPhone" src="https://img.shields.io/badge/Download%20for%20iPhone-iOS%2026-ffffff?style=for-the-badge&labelColor=000000&logo=apple&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SamayW/ethos-release/releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/SamayW/ethos-release?label=latest&color=e8e8ec&labelColor=000000"></a>
   &nbsp;Always the newest version
 </p>
 
 <p align="center">
-  <img alt="Ethos on iPhone: Today, Max, Plan and Progress" src="screenshots/hero.jpg" width="100%">
+  <img alt="Ethos on iPhone: Today, a set with effort bars, Max asking a question, and Recovery" src="screenshots/hero.jpg" width="100%">
 </p>
 
-## Download
+## Install
 
-| Your phone | |
+Ethos isn't on the App Store yet. You install it with a free sideloading app that signs it with your own Apple ID.
+
+| You need | |
 |---|---|
 | iPhone on iOS 26 or later | **[Download Ethos](https://github.com/SamayW/ethos-release/releases/latest/download/Ethos.ipa)**, always the latest |
-| Android | Coming later |
+| SideStore or AltStore | Free, from [sidestore.io](https://sidestore.io) or [altstore.io](https://altstore.io) |
 
-### Install
+1. Install **SideStore** or **AltStore** on your iPhone and follow its setup.
+2. Download **Ethos.ipa** on your iPhone, share it to SideStore or AltStore and tap **Install**.
+3. Open Ethos and sign in with **Google** or your **email**. No password: you get a 6-digit code.
 
-Ethos isn't on the App Store yet, so you install it with a free sideloading app that signs it with your own Apple ID.
+**Get updates in the app:** add this source in SideStore or AltStore.
 
-1. Install **[SideStore](https://sidestore.io)** or **[AltStore](https://altstore.io)** on your iPhone and follow its setup.
-2. On your iPhone, download **Ethos.ipa** from the button above.
-3. Share it to SideStore or AltStore and tap **Install**.
-4. Open Ethos and sign in with **Google** or your **email**. There's no password: you get a 6-digit code.
+```
+https://github.com/SamayW/ethos-release/releases/latest/download/altstore-source.json
+```
 
-Free Apple IDs need apps refreshed every 7 days. SideStore and AltStore do this for you in the background; your data stays safe either way.
+Free Apple IDs need apps refreshed every 7 days. SideStore and AltStore do it in the background. Your data stays put either way.
 
-## Meet Max
+## What's inside
 
-Max is your coach. He doesn't hand you a form. He asks what he needs, one small question at a time, the way a real trainer would: your goal, your weight today and where you want to be, anything that hurts, how you eat, how you like to train. Then he builds your first week, shows it to you as a draft, and only puts it in your plan when you say so.
+### Max
+
+Max is your coach. He asks what he needs, one small question at a time, then builds your week. Nothing goes into your plan until you say so.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img alt="Max asking about your goal with a card" src="screenshots/max-cards.jpg">
-      <p><b>Questions you tap, not forms you fill.</b> Rulers you drag, a body map, swipe-to-love foods. You can always type your own answer.</p>
+      <img alt="Max chat with today's numbers and quick replies" src="screenshots/max-chat.jpg">
+      <p><b>Chat.</b> Ask anything. Max knows your plan, your food and how you slept, and can change things for you, with Undo.</p>
     </td>
     <td width="50%" valign="top">
-      <img alt="A draft plan with Preview and Use buttons" src="screenshots/plan-preview.jpg">
-      <p><b>Nothing changes without you.</b> Preview the week, ask Max to change anything, then tap <b>Use this plan</b>.</p>
+      <img alt="A card with a ruler to set your target weight" src="screenshots/max-cards.jpg">
+      <p><b>Cards, not forms.</b> Rulers you drag, a body map, options you tap. You can always type your own answer.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img alt="Max's memory boxes" src="screenshots/memory.jpg">
-      <p><b>He remembers.</b> Your taste, injuries, routines and reports, in boxes you can read, edit or delete.</p>
+      <img alt="Live voice with Max" src="screenshots/live.jpg">
+      <p><b>Live voice.</b> Talk to Max out loud. Listening runs on your iPhone.</p>
     </td>
     <td width="50%" valign="top">
-      <p><b>Talk out loud.</b> Go hands-free mid-workout and Max talks back.</p>
+      <img alt="A draft week of workouts and meals" src="screenshots/plan-week.jpg">
+      <p><b>Your week.</b> Workouts and meals for every day. Ask for changes, then tap <b>Use this plan</b>.</p>
     </td>
   </tr>
 </table>
 
-## What's inside
+### Training
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img alt="How hard? Five effort bars and the next weight with plates drawn on a bar" src="screenshots/effort.jpg">
+      <p><b>Effort after every set.</b> Tap how hard it felt. Ethos picks the next weight and draws the plates.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Rest timer with the next set" src="screenshots/rest.jpg">
+      <p><b>Rest timer.</b> Shows the next set, adds or cuts 15 seconds, and Max can call the time.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Camera setup: where to put the phone, angle, height and distance" src="screenshots/camera.jpg">
+      <p><b>Camera rep counting.</b> For 8 moves. A top view shows where to put the phone. Video stays on your iPhone.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><b>Hands-free.</b> Say "Log 8 at 60", "Add 30 seconds" or "Next exercise" mid-workout. Heart rate from WHOOP or a chest strap fills in your effort.</p>
+      <p><b>Warm-up and pain check</b> before the first big lift, with swaps when something hurts.</p>
+    </td>
+  </tr>
+</table>
+
+### Food
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Dal Tadka with katori portion sizes" src="screenshots/food-search.jpg">
+      <p><b>Indian food, properly.</b> 405 dishes with katori, roti and plate portions. Search in English or Hindi.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Fridge scan: ingredients and meal ideas" src="screenshots/fridge.jpg">
+      <p><b>Fridge scan.</b> Snap the shelves. Max suggests three meals that fit what's left today, with timed steps.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Menu scan: each dish marked go, small or skip, and Max's order" src="screenshots/menu.jpg">
+      <p><b>Menu scan.</b> Every dish marked go, small or skip, plus an order that fits your day. Log it in one tap.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Today's quick actions and streak" src="screenshots/today-hub.jpg">
+      <p><b>One camera for food.</b> Meals, barcodes, labels, fridge and menus. Quick actions sit on Today.</p>
+    </td>
+  </tr>
+</table>
+
+### Recovery and health
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Recovery score 84 with sleep, HRV and resting heart rate" src="screenshots/recovery.jpg">
+      <p><b>Recovery.</b> A daily score from WHOOP, Apple Watch, or how you slept. Tap once for a lighter session.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Devices: WHOOP, Apple Watch or nothing" src="screenshots/devices.jpg">
+      <p><b>Devices.</b> Connect WHOOP, use Apple Watch through Apple Health, or nothing at all.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Morning brief: recovery, sleep, today's session and yesterday's protein" src="screenshots/brief.jpg">
+      <p><b>Morning brief.</b> Recovery, sleep, today's session and yesterday's protein. Play it as 20 seconds of audio.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Supplement clock with times through the day" src="screenshots/supplements.jpg">
+      <p><b>Supplement clock.</b> When to take each one and why, with reminders.</p>
+    </td>
+  </tr>
+</table>
+
+**Health reports.** Add a blood test and Max turns it into food changes. Reports need an Ethos account.
+
+### Progress
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Progress: weight trend, wins and your story" src="screenshots/progress.jpg">
+      <p><b>Your story.</b> Weight, strength and wins over time, and when you'll reach your goal at this pace.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img alt="A shareable card of your week" src="screenshots/recap-share.jpg">
+      <p><b>Share your week.</b> A card for Instagram stories or Photos. Every Sunday there's a recap too.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="Streak with grace days" src="screenshots/streak.jpg">
+      <p><b>Streak with grace days.</b> One missed day a week doesn't break it.</p>
+    </td>
+    <td width="50%" valign="top">
       <img alt="The Today screen" src="screenshots/today.jpg">
-      <p><b>Today.</b> What's next, what's left to eat, and how your week is going, on one calm screen.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><b>One camera for food.</b> Snap a meal, a barcode, a label or a menu, and Ethos logs it.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img alt="The Plan screen with workouts and meals" src="screenshots/plan.jpg">
-      <p><b>Plan.</b> Workouts and meals for the week. Swipe days, open recipes, swap anything, and get a shopping list.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img alt="A live workout with sets and rest" src="screenshots/workout.jpg">
-      <p><b>Live workouts.</b> Pictures for every exercise, set-by-set weights, rest timers, and week-one weight calibration.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img alt="The Progress screen" src="screenshots/progress.jpg">
-      <p><b>Your story.</b> Weight, strength and wins over time, not just a line on a chart.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img alt="The weekly recap as stories" src="screenshots/recap.jpg">
-      <p><b>Weekly recap.</b> Every Sunday, your week as stories, with Max's changes for next week.</p>
+      <p><b>Today.</b> Weight, recovery, food left and what's next, on one screen.</p>
     </td>
   </tr>
 </table>
@@ -105,36 +179,34 @@ Max is your coach. He doesn't hand you a form. He asks what he needs, one small 
 | | Free | Lite | Plus | Pro |
 |---|---|---|---|---|
 | Today, plan, workouts, logging, progress | ✓ | ✓ | ✓ | ✓ |
-| Chats with Max a day | 20 | 60 | 150 | 400 |
-| Food photo and label scans a day | 10 | 30 | 80 | 200 |
 | Cloud sync and backup | ✓ | ✓ | ✓ | ✓ |
+| Chats with Max a day | 20 | 60 | 150 | 400 |
+| Food photo, label, fridge and menu scans a day | 10 | 30 | 80 | 200 |
 | Max remembers you across devices | – | – | ✓ | ✓ |
 | Weekly plan check-ins | – | – | ✓ | ✓ |
 | Medical report reading, monthly deep review | – | – | – | ✓ |
+| Monthly | – | AED 9.99 | AED 22.99 | AED 26.99 |
+| Yearly | – | AED 99.99 | AED 229.99 | AED 269.99 |
 
-**Lite** AED 9.99, **Plus** AED 22.99 and **Pro** AED 26.99 a month, or AED 99.99, 229.99 and 269.99 a year. You pay on our website, never in the app. You can also use your own Anthropic key, which skips the daily limits.
+You pay on the Ethos website, never in the app. You can also use your own Anthropic key, which skips the daily limits.
 
-## Themes
+## Ethos Classic
 
-<p>
-  <img alt="Night" src="screenshots/theme-night.jpg" width="16%">
-  <img alt="Noir" src="screenshots/theme-noir.jpg" width="16%">
-  <img alt="Light" src="screenshots/theme-light.jpg" width="16%">
-  <img alt="Graphite and Gold" src="screenshots/theme-graphite.jpg" width="16%">
-  <img alt="Aurora" src="screenshots/theme-aurora.jpg" width="16%">
-  <img alt="Ember" src="screenshots/theme-ember.jpg" width="16%">
-</p>
+Prefer the original design? **[Ethos Classic](https://github.com/SamayW/ethos-release/releases/tag/classic-0.1)** is still here. It installs next to the new Ethos, with its own icon and its own data.
 
 ## Your data
 
-- **You sign in through the Ethos server**, with Google or an email code. Your plan, logs and Max's memory are backed up there on every plan, including Free, and follow you to a new phone. The app always keeps a copy on your iPhone, so it works offline.
-- **Health details and reports are encrypted**, each person with their own key. Uploaded reports are stored scrambled and only you can download them back.
-- **Max sees your data only to coach you.** Reports and memories are sent to our AI providers to be read and searched, and are never used to train their models.
-- **Delete everything** from **You › Data & privacy**, any time. It's gone from the server and your phone.
+- **Your account lives on the Ethos server.** Your plan, logs and Max's memory are backed up there on every plan, including Free. Your iPhone keeps a copy, so the app works offline.
+- **Sensitive data is encrypted on the server**, with a key per person. That covers health details, reports, WHOOP data and Max's memory.
+- **Apple Health data stays on your iPhone.** Max gets a short summary, like today's recovery, when he coaches you.
+- **WHOOP connects through your Ethos account.** Your phone never holds WHOOP tokens. Disconnect any time in **Devices**.
+- **Voice.** Listening runs on your iPhone. Max's voice can run on your iPhone too, or through the Ethos server.
+- **Camera rep counting** runs on your iPhone. Video never leaves it.
+- **Export or delete** everything from **You › Data & privacy**, any time.
 
 ## Report a problem
 
-Open an [issue](https://github.com/SamayW/ethos-release/issues) with your app version (**You › About**), your iPhone model, and what happened.
+Open an [issue](https://github.com/SamayW/ethos-release/issues) with your app version (**You › About**), your iPhone model and what happened.
 
 ---
 
