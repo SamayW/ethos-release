@@ -5,12 +5,14 @@
 <h3 align="center">Train, eat and recover with a coach who knows you.</h3>
 
 <p align="center">
-  Workouts, food and recovery in one iPhone app,<br>
+  Workouts, food and recovery in one app for iPhone and Android,<br>
   with Max, an AI coach who plans your week and changes it as you go.
 </p>
 
 <p align="center">
   <a href="https://github.com/SamayW/ethos-release/releases/latest/download/Ethos.ipa"><img alt="Download Ethos for iPhone" src="https://img.shields.io/badge/Download%20for%20iPhone-iOS%2026-ffffff?style=for-the-badge&labelColor=000000&logo=apple&logoColor=white"></a>
+  &nbsp;
+  <a href="https://github.com/SamayW/ethos-release/releases/download/android-feed/Ethos.apk"><img alt="Download Ethos for Android" src="https://img.shields.io/badge/Download%20for%20Android-Android%209%2B-ffffff?style=for-the-badge&labelColor=000000&logo=android&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -23,6 +25,8 @@
 </p>
 
 ## Install
+
+### iPhone
 
 Ethos isn't on the App Store yet. You install it with a free sideloading app that signs it with your own Apple ID.
 
@@ -42,6 +46,18 @@ https://github.com/SamayW/ethos-release/releases/latest/download/altstore-source
 ```
 
 Free Apple IDs need apps refreshed every 7 days. SideStore and AltStore do it in the background. Your data stays put either way.
+
+### Android
+
+| You need | |
+|---|---|
+| Android 9 or later | **[Download Ethos.apk](https://github.com/SamayW/ethos-release/releases/download/android-feed/Ethos.apk)**, always the latest |
+
+1. Download **Ethos.apk** on your phone and open it.
+2. If Android asks, let your browser **install unknown apps**, then tap **Install**.
+3. Open Ethos and sign in with **Google** or your **email**. Your plan, food and workouts are the same as on iPhone.
+
+**Updates are automatic.** Ethos checks for a new version when you open it and every few hours. The first time, Android asks you to tap **Update**. On Android 12 and later, updates after that install by themselves. You can turn this off in **You › Updates**.
 
 ## What's inside
 
